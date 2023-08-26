@@ -1,2 +1,3 @@
 # Flarpy-Bird
 Its my first UNITY Game also my first project ever took some time to learn but it was worth it!
+I've uploaded all my codes in case anyone wants to see...
